@@ -1,0 +1,12 @@
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/bin/Debug/netcoreapp3.1/Fizz Buzz.deps.json
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/bin/Debug/netcoreapp3.1/Fizz Buzz.runtimeconfig.json
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/bin/Debug/netcoreapp3.1/Fizz Buzz.runtimeconfig.dev.json
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/bin/Debug/netcoreapp3.1/Fizz Buzz.dll
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/bin/Debug/netcoreapp3.1/Fizz Buzz.pdb
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.csprojAssemblyReference.cache
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.AssemblyInfoInputs.cache
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.AssemblyInfo.cs
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.csproj.CoreCompileInputs.cache
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.dll
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.pdb
+/Users/Humphrey.Codringtonzoopla.co.uk/Desktop/Fizz Buzz/obj/Debug/netcoreapp3.1/Fizz Buzz.genruntimeconfig.cache
